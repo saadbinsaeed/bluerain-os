@@ -502,9 +502,9 @@ sauce_connect*.txt
 *.dmp
 
 ### Walmart Projects ###
-lib
-dist
-tmp
+#lib
+#dist
+#tmp
 
 ###############################################################################
 #########################_WALMART_STANDARD_GITIGNORE_##########################
